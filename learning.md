@@ -7,11 +7,12 @@ i learned about using the terminal interface with different enviroments (puthon,
 ### Concepts that clicked
 terminal
 ### Concepts I'm still fuzzy on
-how to use the terminal and run files
+how to use the terminal smoothly and how to use Git commands
 ### Terminal commands I ran
 
 a lot
 ### Errors I hit
 a lot
+###
 ...
 we go again
